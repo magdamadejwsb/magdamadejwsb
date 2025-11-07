@@ -8,3 +8,6 @@ Jestem...
 
 ## Statystyki
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=magdamadejwsb&show_icons=true&theme=transparent)
+
+### Kontakt
+[![Static Badge](https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=black)](https://facebook.com)
