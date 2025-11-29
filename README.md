@@ -9,3 +9,6 @@ Jestem...
 ![Static Badge](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black)
+
+# Statystyki
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magdamadejwsb&show_icons=true&theme=transparent)
